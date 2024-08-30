@@ -1,6 +1,6 @@
 public class HelloWorld {
     static void method(){
-       System.out.println("Hello Java Method")
+       System.out.println("Hello Java Method");
      System.out.println("Hello Changed Java Method");
      }
     static void method2(){
